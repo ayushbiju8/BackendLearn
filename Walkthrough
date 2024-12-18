@@ -1,0 +1,46 @@
+First Create a Node App
+Then install Nodemon
+Then set npm run dev
+Then create src folder
+Create 6 folders,
+Controllers
+DB
+Utils
+Routes
+Models
+Middlewares
+3 Files,
+index
+app
+constants
+Set Up Environmental variables.
+in DB create index.js and write code to connect to Data Base
+Then in app.js Write the code to create Express app
+Then integrate both on Index.js
+
+Write utilities in Utils
+ApiResponse
+ApiError
+AsyncHandler
+
+Then Create MODELS
+
+Then create a utility cloudinary.js
+go to website and copy and configure 
+The create a function to upload to cloudinary
+
+Then Create Multer Middleware
+
+go to github and copy it
+
+
+
+
+
+
+
+
+
+
+
+
